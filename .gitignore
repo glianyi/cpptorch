@@ -1,0 +1,7 @@
+build
+.so
+cpptorch
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+main

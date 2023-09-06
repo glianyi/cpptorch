@@ -1,21 +1,3 @@
-
-# cpptorch
-
-## build hello world
-- cd build
-- cmake ..
-- make
-- ./cpptorch
-
-## learn cmake
-
-- https://gitlab.kitware.com/cmake/community/-/wikis/doc/cmake/Useful-Variables#compilers-and-tools
-
-## vscoe problem
-https://discuss.pytorch.org/t/where-to-find-torch-torch-h/59908
-
-### c_cpp properties
-```json
 {
     "configurations": [
         {
@@ -33,5 +15,3 @@ https://discuss.pytorch.org/t/where-to-find-torch-torch-h/59908
     ],
     "version": 4
 }
-```
-
